@@ -208,5 +208,4 @@ public class ETLPipeline {
         System.out.println("Rows skipped: " + rowsSkipped);
         System.out.println("Output file: " + outputFile);
     }
-    
 }
