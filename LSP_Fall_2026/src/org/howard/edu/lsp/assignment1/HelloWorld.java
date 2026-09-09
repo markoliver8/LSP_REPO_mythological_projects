@@ -3,7 +3,7 @@ package org.howard.edu.lsp.assignment1;
 /**
  * Hello World program for Assignment 1.
  *
- * @author John Oliver
+ * Name: John Oliver
  */
 
 public class HelloWorld {
