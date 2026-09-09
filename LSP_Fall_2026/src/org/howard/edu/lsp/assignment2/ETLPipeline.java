@@ -27,7 +27,6 @@ public class ETLPipeline {
             // Read the header
             String header = reader.readLine();
 
-            // Always write the required output header
             writer.write(
                 "EmployeeID,Name,Department,HoursWorked,HourlyRate,"
                 + "GrossPay,PayLevel,EmploymentStatus"
